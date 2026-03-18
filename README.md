@@ -82,7 +82,9 @@ This part of the repository focuses on understanding and managing incomplete dat
 
 • 	🗂️ Sorting rows based on how much data is missing
 
+
 # 🎓 What I Learned From These Notebooks
+
 Working through this section helped me build strong foundational skills in pandas and data handling. As a student, I developed confidence in:
 
 • 	🧭 Creating and exploring DataFrames
@@ -103,4 +105,4 @@ Learning when to fill, remove, or investigate missing entries using methods, lik
 
 • 	🧰 Using essential pandas methods used in real data roles
 
-Building familiarity with functions such as , , , , and other core tools used in everyday data work.
+Building familiarity with functions such as ,  and other core tools used in everyday data work.
