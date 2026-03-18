@@ -82,16 +82,25 @@ This part of the repository focuses on understanding and managing incomplete dat
 
 • 	🗂️ Sorting rows based on how much data is missing
 
-# 🎓 What You’ll Learn From These Notebooks
-
-By working through this section, you’ll gain confidence in:
+# 🎓 What I Learned From These Notebooks
+Working through this section helped me build strong foundational skills in pandas and data handling. As a student, I developed confidence in:
 
 • 	🧭 Creating and exploring DataFrames
 
+Understanding how to load data, inspect structure, and navigate datasets effectively.
+
 • 	🧼 Preparing and cleaning datasets
+
+Applying practical techniques to tidy data, fix inconsistencies, and make datasets analysis‑ready.
 
 • 	🔎 Selecting, filtering, and reshaping data
 
-• 	🩺 Handling missing values in practical ways
+Using pandas tools to extract relevant information, subset data, and reorganise it for deeper analysis.
+
+• 	🩺 Handling missing values with confidence
+
+Learning when to fill, remove, or investigate missing entries using methods, like ,and .
 
 • 	🧰 Using essential pandas methods used in real data roles
+
+Building familiarity with functions such as , , , , and other core tools used in everyday data work.
